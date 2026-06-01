@@ -113,7 +113,7 @@ BASE_URL=https://your-subdomain.ngrok-free.app
 
 # Gemini
 GEMINI_API_KEY=your_gemini_api_key
-GEMINI_LIVE_MODEL=gemini-3.1-flash-live-preview
+GEMINI_LIVE_MODEL=gemini live model
 
 # Voice Configuration
 GEMINI_VOICE=Kore
