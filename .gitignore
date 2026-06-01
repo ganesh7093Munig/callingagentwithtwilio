@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Workspace data logs and databases
+data/logs.json
+data/users.json
